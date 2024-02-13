@@ -11,7 +11,7 @@ Project Objective
 Unleashing the Power of Data for AtliQ Hardware
 Objective: The primary goal of this Power BI project is to empower AtliQ Hardware, a global consumer electronics company, to transition from heavy reliance on Excel for data analytics to more powerful analytics tools. This transition is imperative for the company's future success.I've created a dynamic Power BI project that empowers various departments enabling well-informed decisions.
 
-Live Project: Explore my live Power BI project (https://app.powerbi.com/groups/me/reports/2656c0b3-e50c-4f74-ae51-29fc4d6e473f/ReportSection6ea991b4cdac754e0a87?experience=power-bi)
+Live Project: Explore my live Power BI project (https://app.powerbi.com/groups/me/list?experience=power-bi)
 
 Domain Views
 Financial View:
